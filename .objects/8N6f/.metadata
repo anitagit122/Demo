@@ -1,0 +1,12 @@
+﻿{
+  "Id": "8N6fWkjZp0iATPqI1_KcTA",
+  "Reference": "PYLqixXFCkWnknU6JPi9fQ/8N6fWkjZp0iATPqI1_KcTA",
+  "Name": "ACME",
+  "Description": "ACME Sytsem 1",
+  "Type": "App",
+  "Created": "2023-10-25T21:20:29.5683462Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-25T21:20:29.5683462Z"
+}

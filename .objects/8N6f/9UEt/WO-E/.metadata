@@ -1,0 +1,12 @@
+﻿{
+  "Id": "WO-Ellbao0ibcAvXF2ikVg",
+  "Reference": "PYLqixXFCkWnknU6JPi9fQ/WO-Ellbao0ibcAvXF2ikVg",
+  "ParentRef": "PYLqixXFCkWnknU6JPi9fQ/9UEtIvgIU0m5gTQXCvHSkw",
+  "Name": "Home Screen",
+  "Type": "Screen",
+  "Created": "2023-10-25T21:21:46.2545792Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-25T21:21:46.2545792Z"
+}

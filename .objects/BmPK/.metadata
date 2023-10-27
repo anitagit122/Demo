@@ -1,0 +1,11 @@
+﻿{
+  "Id": "BmPKQHAbJEikqUs0OeoclQ",
+  "Reference": "PYLqixXFCkWnknU6JPi9fQ/BmPKQHAbJEikqUs0OeoclQ",
+  "Name": "RPA Challenge",
+  "Type": "App",
+  "Created": "2023-10-25T21:20:45.4911229Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-25T21:20:45.4911229Z"
+}
